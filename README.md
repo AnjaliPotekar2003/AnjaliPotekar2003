@@ -53,6 +53,7 @@ Full details are on my [LinkedIn](https://www.linkedin.com/in/anjali-potekar/).
 ![Blynk](https://img.shields.io/badge/Blynk_IoT-23C48E?style=flat-square)
 
 **Hardware:** ESP32, ESP32-CAM, Arduino Uno (ATmega328P), PIC18F458
+
 **Tools:** Proteus, Keil uVision5, Cadence NC Sim, LogixPro, Cisco Packet Tracer
 
 ## 🏆 Achievements
